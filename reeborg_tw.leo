@@ -23,7 +23,9 @@
 </v>
 </v>
 <v t="amd.20160213233731.1"><vh>demo</vh></v>
-<v t="amd.20160214155050.1"><vh>run in WWW</vh></v>
+<v t="amd.20160214155050.1" a="E"><vh>run in WWW</vh>
+<v t="amd.20160214160055.1"><vh>@edit CNAME</vh></v>
+</v>
 <v t="amd.20160214141448.1"><vh>run in localhost</vh>
 <v t="amd.20160214141630.1"><vh>how to save file</vh></v>
 <v t="amd.20160214141829.1"><vh>Brython tutorial</vh></v>

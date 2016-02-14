@@ -23,7 +23,8 @@
 </v>
 </v>
 <v t="amd.20160213233731.1"><vh>demo</vh></v>
-<v t="amd.20160214141448.1" a="E"><vh>run in localhost</vh>
+<v t="amd.20160214155050.1"><vh>run in WWW</vh></v>
+<v t="amd.20160214141448.1"><vh>run in localhost</vh>
 <v t="amd.20160214141630.1"><vh>how to save file</vh></v>
 <v t="amd.20160214141829.1"><vh>Brython tutorial</vh></v>
 </v>
@@ -122,5 +123,12 @@ use browser to access http://localhost:8000</t>
 <t tx="amd.20160214141630.1">use permalink under Additional options to pack programs on Editor into a big URL
 </t>
 <t tx="amd.20160214141829.1">Since Reeborg use Brython, therefore user can write Brython code to run on the browser</t>
+<t tx="amd.20160214155050.1">http://code4futuredotorg.github.io/reeborg_tw
+
+or
+
+http://code4future.org
+
+</t>
 </tnodes>
 </leo_file>
